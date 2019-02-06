@@ -1,2 +1,5 @@
 # hello-world
-Just try at first time
+
+I am Kenn.
+
+I like blue sky and white sand sea.
