@@ -1,2 +1,2 @@
 # hello-world
-Just try at first time
+Just say Hello
